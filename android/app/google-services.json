@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390479380583",
+    "project_id": "sorkhposhan-attendance",
+    "storage_bucket": "sorkhposhan-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390479380583:android:16bd27c643bcd908ce14c2",
+        "android_client_info": {
+          "package_name": "com.example.sorkhposhan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOcTYriQr8Va5FLb-lzwRY-vdDol-jC7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

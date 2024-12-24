@@ -1,0 +1,49 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "sorkhposhan-attendance",
+          "appId": "1:390479380583:android:16bd27c643bcd908ce14c2",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "sorkhposhan-attendance",
+          "appId": "1:390479380583:ios:ca5b9cc98af4d2f5ce14c2",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "sorkhposhan-attendance",
+          "appId": "1:390479380583:ios:ca5b9cc98af4d2f5ce14c2",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "sorkhposhan-attendance",
+          "configurations": {
+            "android": "1:390479380583:android:16bd27c643bcd908ce14c2",
+            "ios": "1:390479380583:ios:ca5b9cc98af4d2f5ce14c2",
+            "macos": "1:390479380583:ios:ca5b9cc98af4d2f5ce14c2",
+            "web": "1:390479380583:web:71e8ccbbafc58276ce14c2",
+            "windows": "1:390479380583:web:21bc56a2f3519d71ce14c2"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
